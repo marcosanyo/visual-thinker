@@ -1,0 +1,4 @@
+.env
+.visual-thinker/
+__pycache__/
+.DS_Store

@@ -1,0 +1,12 @@
+{
+  "name": "visual-thinker",
+  "description": "The visual-thinker skill: technical diagrams drawn by an image model, inside an agent's explanation.",
+  "owner": { "name": "marcosanyo" },
+  "plugins": [
+    {
+      "name": "visual-thinker",
+      "source": "./",
+      "description": "Draw architecture, flow, state-machine and mental-model diagrams with an image model and explain them picture first."
+    }
+  ]
+}

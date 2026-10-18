@@ -1,0 +1,10 @@
+{
+  "name": "visual-thinker",
+  "version": "0.1.0",
+  "description": "Lets a coding agent draw a technical diagram with an image model in the middle of an explanation, for people who think visually.",
+  "author": { "name": "marcosanyo" },
+  "homepage": "https://github.com/marcosanyo/visual-thinker",
+  "repository": "https://github.com/marcosanyo/visual-thinker",
+  "license": "MIT",
+  "keywords": ["diagram", "architecture", "image-generation", "visual-thinking", "skill"]
+}
