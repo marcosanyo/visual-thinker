@@ -4,12 +4,15 @@ An [Agent Skill](https://agentskills.io) that lets a coding agent **draw a diagr
 Ask Claude Code (or Codex, or any agent that reads `SKILL.md`) how a system fits together, and it answers with a
 picture first, then explains it region by region.
 
+日本語: [README.ja.md](README.ja.md)
+
 | Architecture | State machine | Mental model |
 |---|---|---|
 | ![Architecture example](docs/gallery/architecture.png) | ![State machine example](docs/gallery/state-machine.png) | ![Mental model example](docs/gallery/mental-model.png) |
 
-*Generated with this skill (Vertex AI, `gemini-nano-banana-2.1`); the prompts are recipes A, C and D in
-[prompt_recipes.md](skills/visual-thinker/references/prompt_recipes.md).*
+*Generated with this skill (Vertex AI, `gemini-nano-banana-2.1`) from recipes A, C and D in
+[prompt_recipes.md](skills/visual-thinker/references/prompt_recipes.md), the first two with
+`--style "white background, flat vector, large readable text"`.*
 
 ## Why
 
@@ -106,12 +109,13 @@ skills/visual-thinker/
   scripts/generate_diagram.py
   references/prompt_recipes.md
 docs/gallery/            # the images above
+README.ja.md             # Japanese README
 ```
 
 ## Origin
 
-Started during the Amazon Developer Hackathon (2026), where it was used to sketch the architecture of
-[FireSense Kids](https://github.com/marcosanyo/firesense-kids) while it was being designed.
+Started during the Amazon Developer Hackathon (2026), where it was used to sketch the architecture of FireSense
+Kids, a Fire TV project, while it was being designed.
 
 ## License
 

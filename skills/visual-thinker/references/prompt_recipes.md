@@ -27,6 +27,7 @@ Middle, inside a box labeled 'AWS': 'API Gateway' routing to 'Auth', 'Catalog' a
 Right: 'PostgreSQL' and 'Redis'.
 Arrows: from both apps to 'API Gateway' labeled 'HTTPS'; from 'Catalog' to 'Redis' labeled 'cache';
 from 'Auth' and 'Payment' to 'PostgreSQL'. No other arrows.
+A plain cylinder for each database; no product logos.
 ```
 
 ## Recipe B: event pipeline (`--type flow`)
