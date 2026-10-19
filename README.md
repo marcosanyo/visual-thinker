@@ -114,8 +114,8 @@ README.ja.md             # Japanese README
 
 ## Origin
 
-Started during the Amazon Developer Hackathon (2026), where it was used to sketch the architecture of FireSense
-Kids, a Fire TV project, while it was being designed.
+Started during the Amazon Developer Hackathon (2026), where it was used to sketch the architecture of
+[FireSense Kids](https://github.com/marcosanyo/FireSenseKids), a Fire TV project, while it was being designed.
 
 ## License
 
