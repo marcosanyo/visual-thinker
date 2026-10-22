@@ -114,8 +114,9 @@ README.ja.md             # この日本語の README
 
 ## 生まれ
 
-Amazon Developer Hackathon（2026）の期間中に始めたもので、Fire TV のプロジェクト [FireSense Kids](https://github.com/marcosanyo/FireSenseKids) を設計する間、
-その構成を描くのに使いました。
+Amazon Developer Hackathon（2026）の期間中に始めました。Fire TV のプロジェクト [FireSense Kids](https://github.com/marcosanyo/FireSenseKids) をコーディングエージェントと作る間、
+その文字だけの長い説明や報告は読み解くのが大変だったので、図を先に出して答えさせるようにしました。その習慣をまとめたのがこのスキルで、
+途中で FireSense の構成図も描きました。
 
 ## ライセンス
 
